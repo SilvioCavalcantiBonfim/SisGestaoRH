@@ -20,6 +20,8 @@ Este é um projeto desenvolvido como atividade do curso de Java Backend no Vai n
 
 # Diagrama de Classes e Relacionamentos
 
+![Diagrama](https://github.com/SilvioCavalcantiBonfim/SisGestaoRH/assets/89864715/39e056a8-5c97-4da7-8109-940e5745f9c0)
+
 # Contribuições
 
 Fique à vontade para contribuir para este projeto. Siga as diretrizes de contribuição e abra issues para discutir melhorias ou reportar problemas. Seja respeitoso ao interagir com outros colaboradores.
