@@ -2,7 +2,7 @@
 
 Este projeto visa reestruturar e aprimorar um sistema de gestão de recursos humanos, introduzindo especializações para cada cargo e incorporando melhorias sugeridas em aula. O código foi organizado de maneira mais eficiente e foi adicionada uma hierarquia de classes para representar diferentes cargos. Além disso, um Diagrama de Classes e Relacionamentos foi criado para fornecer uma visão geral da estrutura do sistema.
 
-Este é um projeto desenvolvido como atividade do curso de Java Backend na Web.
+Este é um projeto desenvolvido como atividade do curso de Java Backend no Vai na Web.
 
 # Melhorias Implementadas
 
